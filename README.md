@@ -17,8 +17,29 @@ This Fashion Recommendation System leverages a **VGG16** convolutional neural ne
 
 To use this Fashion Recommendation System, follow these steps:
 
-### 1. Clone the Repository
+1. Clone the repository:
+   ```bash
+  git clone https://github.com/yourusername/fashion-recommendation-system.git
+  cd fashion-recommendation-system
 
-```bash
-git clone https://github.com/yourusername/fashion-recommendation-system.git
-cd fashion-recommendation-system
+## 🛠️ Setup
+
+1. Install Dependencies
+
+Ensure you have Python 3.x and pip installed. Install the required libraries using:
+  pip install -r requirements.txt
+
+## ⚙️ Technology Stack
+
+- **Python** 🐍
+- **TensorFlow** 🤖
+- **Keras** 🧠
+- **VGG16** (Pre-trained CNN Model) 🧑‍🏫
+- **Matplotlib** 📊
+- **PIL** (Image Processing) 📷
+
+## 🧑‍💻 Author
+Made with ❤️ by [Your Name] 👨‍💻
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
